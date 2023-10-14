@@ -9,7 +9,7 @@ ENV fpm="false" branch="v2-master"
 # add local files
 COPY root/ /
 
-
+# run again
 # ports and volumes
 EXPOSE 4608
 VOLUME /config
