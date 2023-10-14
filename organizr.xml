@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
     <Name>organizrv2</Name>
-    <Repository>organizr/organizr</Repository>
-    <Registry>https://hub.docker.com/r/organizr/organizr/</Registry>
+    <Repository>mulverinex/organizr</Repository>
+    <Registry>https://hub.docker.com/r/mulverinex/organizr/</Registry>
     <Shell>bash</Shell>
     <Privileged>false</Privileged>
     <Network>bridge</Network>
